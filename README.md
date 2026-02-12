@@ -53,5 +53,5 @@ Após a instalação, utilize estes comandos para validar a saúde do sistema:
 * **Status de Serviços:** `systemctl status ssh`
 
 ---
-**Desenvolvido por [Igor Cesar](https://www.linkedin.com/in/https://www.linkedin.com/in/igor-pantojacloud-system/)**
+**Desenvolvido por [Igor Pantoja](https://www.linkedin.com/in/https://www.linkedin.com/in/igor-pantojacloud-system/)**
 *"Segurança não é um produto, é um processo."*
