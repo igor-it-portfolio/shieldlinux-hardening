@@ -1,1 +1,16 @@
+# SHIELDLINUX - REGRAS DE FIREWALL (UFW)
+# Caminho sugerido: /etc/ufw/
 
+# POLÍTICA PADRÃO
+# ---------------------------------------------------------
+Default Incoming: DENY (Bloqueia tudo que entra)
+Default Outgoing: ALLOW (Permite tudo que sai)
+
+# REGRAS DE ACESSO PERMITIDO
+# ---------------------------------------------------------
+Porta 22/TCP  (SSH)   -> Essencial para administração remota.
+Porta 80/TCP  (HTTP)  -> Acesso web padrão.
+Porta 443/TCP (HTTPS) -> Acesso web seguro (SSL).
+
+# NOTA DE SEGURANÇA:
+# Se estiver usando uma porta SSH customizada, altere a 22.
