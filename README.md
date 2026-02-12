@@ -34,7 +34,7 @@ Para aplicar o hardening inicial, execute o comando abaixo dentro da sua instân
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/igor-it-portfolio/shieldlinux-hardening.git
+git clone (https://github.com/igor-it-portfolio/shieldlinux-hardening.git)
 
 # Entrar na pasta e dar permissão de execução
 cd shieldlinux-hardening/scripts
