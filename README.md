@@ -1,6 +1,5 @@
 # 🛡️ ShieldLinux: Hardening Framework & Secure Deploy
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-FCC624?logo=linux&logoColor=black)
 ![Security](https://img.shields.io/badge/Security-Hardening-red)
 
